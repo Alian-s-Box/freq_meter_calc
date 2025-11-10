@@ -1,0 +1,29 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/gowin_pll/gowin_pll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/uart_freq_sender.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

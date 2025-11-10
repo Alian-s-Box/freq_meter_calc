@@ -1,0 +1,38 @@
+[
+ {
+  "InstFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v",
+  "InstLine" : 1,
+  "InstName" : "top_freq_meter",
+  "ModuleFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top_freq_meter",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v",
+    "InstLine" : 21,
+    "InstName" : "u_freq_meter",
+    "ModuleFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "freq_meter_calc",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v",
+      "InstLine" : 252,
+      "InstName" : "u_PLL",
+      "ModuleFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/gowin_pll/gowin_pll.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "Gowin_PLL"
+     }
+    ]
+   },
+   {
+    "InstFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v",
+    "InstLine" : 33,
+    "InstName" : "u_uart_sender",
+    "ModuleFile" : "D:/Gowin_Folder/Projects/freq_meter_calc_2/src/uart_freq_sender.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_freq_sender"
+   }
+  ]
+ }
+]

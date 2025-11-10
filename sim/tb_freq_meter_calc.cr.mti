@@ -1,0 +1,43 @@
+D:/Gowin_Folder/Projects/freq_meter_calc_2/src/gowin_pll/gowin_pll.v {1 {vlog -work work -vopt -stats=none D:/Gowin_Folder/Projects/freq_meter_calc_2/src/gowin_pll/gowin_pll.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Gowin_PLL
+
+Top level modules:
+	Gowin_PLL
+
+} {} {}} D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_freq_meter_calc.v {1 {vlog -work work -vopt -stats=none D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_freq_meter_calc.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_freq_meter_calc
+
+Top level modules:
+	tb_freq_meter_calc
+
+} {} {}} D:/Gowin_Folder/Projects/freq_meter_calc_2/src/uart_freq_sender.v {1 {vlog -work work -vopt -stats=none D:/Gowin_Folder/Projects/freq_meter_calc_2/src/uart_freq_sender.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module uart_freq_sender
+
+Top level modules:
+	uart_freq_sender
+
+} {} {}} D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v {1 {vlog -work work -vopt -stats=none D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module top_freq_meter
+
+Top level modules:
+	top_freq_meter
+
+} {} {}} D:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v {1 {vlog -work work -vopt -stats=none D:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module freq_meter_calc
+
+Top level modules:
+	freq_meter_calc
+
+} {} {}} D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_TOP.v {1 {vlog -work work -vopt -stats=none D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_TOP.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_TOP
+
+Top level modules:
+	tb_TOP
+
+} {} {}}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_freq_meter" Register="25" Lut="48" T_Register="573(25)" T_Alu="3235(0)" T_Lut="9943(48)" T_MULT27X36="4(0)">
+ <SubModule name="u_freq_meter" Register="455" Alu="3235" Lut="9682" MULT27X36="4" T_Register="455(455)" T_Alu="3235(3235)" T_Lut="9682(9682)" T_MULT27X36="4(4)">
+  <SubModule name="u_PLL"/>
+ </SubModule>
+ <SubModule name="u_uart_sender" Register="93" Lut="213" T_Register="93(93)" T_Lut="213(213)"/>
+</Module>

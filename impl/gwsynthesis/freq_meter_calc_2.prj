@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW5A-25A" package="UBGA324" speed="2" partNumber="GW5A-LV25UG324C2/I1"/>
+    <FileList>
+        <File path="D:\Gowin_Folder\Projects\freq_meter_calc_2\src\TOP.v" type="verilog"/>
+        <File path="D:\Gowin_Folder\Projects\freq_meter_calc_2\src\freq_meter_calc.v" type="verilog"/>
+        <File path="D:\Gowin_Folder\Projects\freq_meter_calc_2\src\gowin_pll\gowin_pll.v" type="verilog"/>
+        <File path="D:\Gowin_Folder\Projects\freq_meter_calc_2\src\uart_freq_sender.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="enable_dsrm" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="D:\Gowin_Folder\Projects\freq_meter_calc_2\impl\gwsynthesis\freq_meter_calc_2.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="vcc" value="0.9"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

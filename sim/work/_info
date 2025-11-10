@@ -1,0 +1,147 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Gowin_Folder/Projects/uart_tx/sim
+T_opt
+!s110 1761984999
+VNH`2QJ1j?hT`I@X@YKHdZ0
+04 14 4 work top_freq_meter fast 0
+=3-bceca0148027-6905c1e7-235-48f4
+o-quiet -auto_acc_if_foreign -work work +acc -L gw5a -Lf gw5a
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vfreq_meter_calc
+Z1 !s110 1761984990
+!i10b 1
+!s100 DYQEBfjaz@5K7IRDDjkFg3
+I58z7]FRZEPJ[LT5f8OVAN2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Gowin_Folder/Projects/freq_meter_calc_2/sim
+Z4 w1761905778
+8D:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v
+FD:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v
+L0 3
+Z5 OL;L;10.5;63
+r1
+!s85 0
+31
+Z6 !s108 1761984990.000000
+!s107 D:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Gowin_Folder/Projects/freq_meter_calc_2/src/freq_meter_calc.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vGowin_PLL
+Z8 !s110 1761984991
+!i10b 1
+!s100 ;`8NBf]<UA:8<NTYl90:a1
+I>;YRRA5lYaE`=Mj:Pho<60
+R2
+R3
+w1761905732
+8D:/Gowin_Folder/Projects/freq_meter_calc_2/src/gowin_pll/gowin_pll.v
+FD:/Gowin_Folder/Projects/freq_meter_calc_2/src/gowin_pll/gowin_pll.v
+L0 10
+R5
+r1
+!s85 0
+31
+Z9 !s108 1761984991.000000
+!s107 D:/Gowin_Folder/Projects/freq_meter_calc_2/src/gowin_pll/gowin_pll.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Gowin_Folder/Projects/freq_meter_calc_2/src/gowin_pll/gowin_pll.v|
+!i113 0
+R7
+R0
+n@gowin_@p@l@l
+vtb_freq_meter_calc
+R1
+!i10b 1
+!s100 2KfHh`HTAKCJ8c4`YOb6M1
+I^JeBfaTC>Ul@<`GQK>JYQ2
+R2
+R3
+R4
+8D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_freq_meter_calc.v
+FD:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_freq_meter_calc.v
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_freq_meter_calc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_freq_meter_calc.v|
+!i113 0
+R7
+R0
+vtb_TOP
+R8
+!i10b 1
+!s100 Se>zgM?abEWW7nXG9_E?h0
+Iz:mnZXa8Aza>fC[Aj2Pko3
+R2
+R3
+w1761984982
+8D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_TOP.v
+FD:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_TOP.v
+L0 8
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Gowin_Folder/Projects/freq_meter_calc_2/src/tb_TOP.v|
+!i113 0
+R7
+R0
+ntb_@t@o@p
+vtop_freq_meter
+R8
+!i10b 1
+!s100 MC3e^h^mWj_;E7Pm1Pk4A2
+I1@O7l<6ZU1G7TUWCB?WNS2
+R2
+R3
+w1761983851
+8D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v
+FD:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v
+L0 1
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Gowin_Folder/Projects/freq_meter_calc_2/src/TOP.v|
+!i113 0
+R7
+R0
+vuart_freq_sender
+R1
+!i10b 1
+!s100 BEb``<OGd[6b?538mP?2C2
+IbKN1D1dfba2b98=NR[`G?3
+R2
+R3
+w1761983131
+8D:/Gowin_Folder/Projects/freq_meter_calc_2/src/uart_freq_sender.v
+FD:/Gowin_Folder/Projects/freq_meter_calc_2/src/uart_freq_sender.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Gowin_Folder/Projects/freq_meter_calc_2/src/uart_freq_sender.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Gowin_Folder/Projects/freq_meter_calc_2/src/uart_freq_sender.v|
+!i113 0
+R7
+R0
